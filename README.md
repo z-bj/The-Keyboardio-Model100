@@ -18,7 +18,7 @@
 "For this project, you will build a product landing page to market a product of your choice."
 
 
-### I'll try her an implementation of the “Raise the Curtains” Effect in CSS
+### I'll try her an implementation of the “Raise the Curtains” Effect in CSS, like this 👇
 
 <img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" width="350" height="auto" />
 
@@ -26,5 +26,5 @@
 
 <br>
 
-### ➪ View the [result](https://z-bj.github.io/the-keyboardio-model100/)
+### ➪ View the [result 👀](https://z-bj.github.io/the-keyboardio-model100/)
 
