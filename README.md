@@ -20,7 +20,7 @@
 
 ### I'll try her an implementation of the “Raise the Curtains” Effect in CSS
 
-<img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" height="250" />
+<img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" width="350" height="auto" />
 
 ➪ Link to [Wunder Mobility](https://www.wundermobility.com/sharing-ready-vehicles/)
 
