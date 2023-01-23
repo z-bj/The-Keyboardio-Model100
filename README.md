@@ -19,12 +19,6 @@
 # I love “Raise the Curtains” Effect in CSS. 
 - [Silvestar Bistrović ©](https://github.com/maliMirkec/)
 
-![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain.gif)
-
-
-
-
-
 ## So, I tryed to implement it here:  👇
 
  MIX-BLEND-MODE | SCROLLING | STICKY
@@ -73,5 +67,12 @@
 }
 ```
 
-# ➪ Look at the [result](https://z-bj.github.io/The-Keyboardio-Model100/)
+<br>
+<br>
+
+## Mobile view
+
+![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain.gif)
+
+### ➪ The full page [here](https://z-bj.github.io/The-Keyboardio-Model100/)
 
