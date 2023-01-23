@@ -17,7 +17,7 @@
 <br>
 
 # I love the “Raise the Curtains” effect in CSS. 
-By [Silvestar Bistrović ©](https://github.com/maliMirkec/)
+By [Silvestar Bistrović](https://github.com/maliMirkec/)
 
 ## So, I tryed to implement it here:  👇
 
