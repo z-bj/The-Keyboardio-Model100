@@ -16,11 +16,15 @@
 
 <br>
 
-# I love the “Raise the Curtains”  Effect in CSS. 
-- [Silvestar Bistrović ©](https://github.com/maliMirkec/)
-<img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" width="350" height="auto" />
+# I love “Raise the Curtains” Effect in CSS. 
 
-### This is my implementation:  👇
+![gif](https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif)
+- [Silvestar Bistrović ©](https://github.com/maliMirkec/)
+
+
+
+
+## So, I tryed to implement it here:  👇
 
  MIX-BLEND-MODE | SCROLLING | STICKY
 
@@ -68,5 +72,5 @@
 }
 ```
 
-### ➪ Look at the [result](https://z-bj.github.io/the-keyboardio-model100/)
+# ➪ Look at the [result](https://z-bj.github.io/the-keyboardio-model100/)
 
