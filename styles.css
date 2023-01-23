@@ -618,9 +618,6 @@ You deserve a good keyboard.-------------- --> */
 
 /* <!-- -------------------FEEL_IT-------------------------- --> */
 
-
-/* https://css-tricks.com/css-raise-the-curtains-effect/ */
-
 .feel-it {
     background-image: linear-gradient(to bottom, var(--clr-shark) 50%, var(--clr-romance) 50%);
 
