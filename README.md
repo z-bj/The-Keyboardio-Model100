@@ -17,9 +17,10 @@
 <br>
 
 # I love “Raise the Curtains” Effect in CSS. 
-
-![gif](https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif)
 - [Silvestar Bistrović ©](https://github.com/maliMirkec/)
+
+![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain.gif)
+
 
 
 
