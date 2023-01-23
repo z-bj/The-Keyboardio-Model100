@@ -70,7 +70,7 @@
 <br>
 <br>
 
-## Mobile view
+## Mobile view.
 
 ![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain.gif)
 
