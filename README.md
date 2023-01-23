@@ -10,19 +10,21 @@
 ![kickstarter](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
 
 <br>
-<br>
 
-# ➪ Read the [user story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
+### ➪ [User story](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 "For this project, you will build a product landing page to market a product of your choice."
 
 <br>
 
-## Implementation of the “Raise the Curtains” Effect in CSS. 
+# I love the “Raise the Curtains” Effect in CSS. 
 
 <img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" width="350" height="auto" />
-➪ Link to [Wunder Mobility](https://www.wundermobility.com/sharing-ready-vehicles/)
+- [Wunder Mobility: Silvestar Bistrović ©](https://www.wundermobility.com/sharing-ready-vehicles/)
 
-### MIX-BLEND-MODE | SCROLLING | STICKY  👇
+
+### This is my implementation:  👇
+
+ MIX-BLEND-MODE | SCROLLING | STICKY
 
 ```html
 
@@ -39,7 +41,6 @@
 .feel-it {
     background-image: linear-gradient(to bottom, var(--clr-shark) 50%, var(--clr-romance) 50%);
 }
-
 
 .feel-it::after {
     content: "";
@@ -68,9 +69,7 @@
     font-weight: 500;
 }
 ```
-
-<br>
 <br>
 
-### ➪ View the [result 👀](https://z-bj.github.io/the-keyboardio-model100/)
+### ➪ Look at the [result](https://z-bj.github.io/the-keyboardio-model100/)
 
