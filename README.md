@@ -72,5 +72,5 @@
 }
 ```
 
-# ➪ Look at the [result](https://z-bj.github.io/the-keyboardio-model100/)
+# ➪ Look at the [result](https://z-bj.github.io/The-Keyboardio-Model100/)
 
