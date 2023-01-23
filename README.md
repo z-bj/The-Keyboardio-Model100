@@ -16,11 +16,9 @@
 
 <br>
 
-# I love the “Raise the Curtains” Effect in CSS. 
-
+# I love the “Raise the Curtains”  Effect in CSS. 
+- [Silvestar Bistrović ©](https://github.com/maliMirkec/)
 <img src="https://github.com/z-bj/the-keyboardio-model100/blob/master/Wunder-mobility.gif" width="350" height="auto" />
-- [Wunder Mobility: Silvestar Bistrović ©](https://www.wundermobility.com/sharing-ready-vehicles/)
-
 
 ### This is my implementation:  👇
 
@@ -69,7 +67,6 @@
     font-weight: 500;
 }
 ```
-<br>
 
 ### ➪ Look at the [result](https://z-bj.github.io/the-keyboardio-model100/)
 
