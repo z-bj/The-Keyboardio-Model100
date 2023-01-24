@@ -70,7 +70,7 @@ By [Silvestar Bistrović](https://github.com/maliMirkec/)
 
 ## Mobile view.
 
-![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain.gif)
+![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
 
 ### ➪ The full page [here](https://z-bj.github.io/The-Keyboardio-Model100/)
 
