@@ -9,12 +9,12 @@
 
 <br>
 
-## ➪ [User story](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/User_story.md)
+### ➪ [User story](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/User_story.md)
 "For this project, you will build a product landing page to market a product of your choice."
 
 <br>
 
-# I love the “Raise the Curtains” effect in CSS. 
+## I love the “Raise the Curtains” effect in CSS. 
 By [Silvestar Bistrović](https://github.com/maliMirkec/)
 
 ## So, I tryed to implement it here:  👇
@@ -72,5 +72,5 @@ By [Silvestar Bistrović](https://github.com/maliMirkec/)
 
 ![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
 
-### ➪ The full page [here](https://z-bj.github.io/The-Keyboardio-Model100/)
+### ➪ Test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100/)
 
