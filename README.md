@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/keyboardio-tribute-page-banner.jpg)
+![banner](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Keyboardio-tribute-page-banner.jpg)
 
 
 
