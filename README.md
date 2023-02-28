@@ -8,13 +8,22 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![kickstarter](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
 
-This is a landing page for the Keyboardio Model 100, an ergonomic keyboard that was built through a Kickstarter campaign. As a fan of this keyboard, I wanted to create a landing page to showcase its features and benefits.
+## Purpose
 
-The landing page was built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element.
+The purpose of this landing page is to promote the ergonomic keyboard, which was designed with user comfort in mind. The keyboard features a unique split design that reduces strain on the wrists and arms, making it an ideal choice for anyone who spends a significant amount of time typing.
 
-## User Story
+> This amaizing ergonomic keyboard that was funded via Kickstarter.
 
-For this project, the goal was to build a product landing page to market a product of my choice, and I chose the Keyboardio Model 100.
+As a fan of the product, I created this landing page to showcase the keyboard's unique features and benefits, and to provide potential customers with a compelling reason to purchase it.
+
+> This repository features a product landing page built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element, to create an immersive user experience
+
+
+## Features
+
+The landing page features a bold gradient background and a prominent heading that utilizes the "difference" mix-blend-mode to create a striking visual effect. The heading is also designed to be responsive, using the clamp function to ensure that it scales appropriately on different screen sizes.
+
+To enhance the user experience, the page includes scrolling and sticky positioning, allowing users to easily navigate through the content while maintaining the effect's continuity. Additionally, the page is designed to be JavaScript-free, ensuring that it is accessible and quick to load on all devices.
 
 ## Implementation
 
@@ -71,11 +80,7 @@ The "Raise the Curtains" effect was achieved using the `mix-blend-mode` property
 
 You can test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100/).
 
-## Technologies Used
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Kickstarter Badge](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
-
 ## Credits
 
--   Silvestar Bistrović for the "Raise the Curtains" effect implementation.
+-   Silvestar Bistrović for the "Raise the Curtains" effect discovery.
 -   Keyboardio for creating such a unique and ergonomic keyboard.
