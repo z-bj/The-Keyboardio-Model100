@@ -1,25 +1,24 @@
-![banner](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Keyboardio-tribute-page-banner.jpg)
 
+![Keyboardio Model 100 Banner](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Keyboardio-tribute-page-banner.jpg)
 
+# The Keyboardio Model 100 Landing Page
 
 ![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![kickstarter](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
 
-<br>
+This is a landing page for the Keyboardio Model 100, an ergonomic keyboard that was built through a Kickstarter campaign. As a fan of this keyboard, I wanted to create a landing page to showcase its features and benefits.
 
-### ➪ [User story](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/User_story.md)
-"For this project, you will build a product landing page to market a product of your choice."
+The landing page was built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element.
 
-<br>
+## User Story
 
-## I love the “Raise the Curtains” effect in CSS. 
-By [Silvestar Bistrović](https://github.com/maliMirkec/)
+For this project, the goal was to build a product landing page to market a product of my choice, and I chose the Keyboardio Model 100.
 
-## So, I tryed to implement it here:  👇
+## Implementation
 
- MIX-BLEND-MODE | SCROLLING | STICKY
+The "Raise the Curtains" effect was achieved using the `mix-blend-mode` property, combined with `scrolling` and `sticky` properties. Here's the code used for the effect:
 
 ```html
 
@@ -64,13 +63,19 @@ By [Silvestar Bistrović](https://github.com/maliMirkec/)
     font-weight: 500;
 }
 ```
+## Mobile View
 
-<br>
-<br>
+![Keyboardio Model 100 Mobile View](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
 
-## Mobile view.
+## Visit the Landing Page
 
-![gif](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
+You can test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100/).
 
-### ➪ Test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100/)
+## Technologies Used
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Kickstarter Badge](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
+
+## Credits
+
+-   Silvestar Bistrović for the "Raise the Curtains" effect implementation.
+-   Keyboardio for creating such a unique and ergonomic keyboard.
