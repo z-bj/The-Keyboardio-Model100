@@ -8,16 +8,15 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![kickstarter](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
 
-## Purpose
-
-The purpose of this landing page is to promote the ergonomic keyboard, which was designed with user comfort in mind. The keyboard features a unique split design that reduces strain on the wrists and arms, making it an ideal choice for anyone who spends a significant amount of time typing.
-
-> This amaizing ergonomic keyboard that was funded via Kickstarter.
-
-As a fan of the product, I created this landing page to showcase the keyboard's unique features and benefits, and to provide potential customers with a compelling reason to purchase it.
-
 > This repository features a product landing page built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element, to create an immersive user experience
 
+## Purpose
+
+The purpose of this landing page is to promote the Keyboardio Model 100 ergonomic keyboard, which was designed with user comfort in mind. The keyboard features a unique split design that reduces strain on the wrists and arms, making it an ideal choice for anyone who spends a significant amount of time typing.
+
+> This amaizing ergonomic keyboard was funded through Kickstarter.
+
+As a fan of the product, I created this landing page to showcase the keyboard's unique features and benefits, and to provide potential customers with a compelling reason to purchase it.
 
 ## Features
 
