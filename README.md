@@ -18,6 +18,11 @@ The purpose of this landing page is to promote the Keyboardio Model 100 ergonomi
 
 As a fan of the product, I created this landing page to showcase the keyboard's unique features and benefits, and to provide potential customers with a compelling reason to purchase it.
 
+## Mobile View
+
+![Keyboardio Model 100 Mobile View](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
+
+
 ## Features
 
 The landing page features a bold gradient background and a prominent heading that utilizes the "difference" mix-blend-mode to create a striking visual effect. The heading is also designed to be responsive, using the clamp function to ensure that it scales appropriately on different screen sizes.
@@ -71,9 +76,6 @@ The "Raise the Curtains" effect was achieved using the `mix-blend-mode` property
     font-weight: 500;
 }
 ```
-## Mobile View
-
-![Keyboardio Model 100 Mobile View](https://github.com/z-bj/The-Keyboardio-Model100/blob/master/Raise_the_curtain_effect.gif)
 
 ## Visit the Landing Page
 
