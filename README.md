@@ -85,3 +85,5 @@ You can test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100
 
 -   Silvestar Bistrović for the "Raise the Curtains" effect discovery.
 -   Keyboardio for creating such a unique and ergonomic keyboard.
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="36">
