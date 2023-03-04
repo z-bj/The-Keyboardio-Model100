@@ -8,6 +8,8 @@
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![kickstarter](https://img.shields.io/badge/Kickstarter-05CE78.svg?style=for-the-badge&logo=Kickstarter&logoColor=white)
 
+<img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="36">
+
 > This repository features a product landing page built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element, to create an immersive user experience
 
 ## Purpose
@@ -86,4 +88,4 @@ You can test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100
 -   Silvestar Bistrović for the "Raise the Curtains" effect discovery.
 -   Keyboardio for creating such a unique and ergonomic keyboard.
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="36">
+<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="36">
