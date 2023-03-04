@@ -10,7 +10,7 @@
 
 
 
-> This repository features a product landing page built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The "Raise the Curtains" effect in CSS was implemented on the page to add a unique visual element, to create an immersive user experience
+> This repository features a product landing page built using HTML5 and CSS3, with the design created using Figma. JavaScript was intentionally avoided for this project. The **"Raise the Curtains"** effect in CSS was implemented on the page to add a unique visual element, to create an **immersive** user experience
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="36">
 
