@@ -84,10 +84,11 @@ The "Raise the Curtains" effect was achieved using the `mix-blend-mode` property
 ## Visit the Landing Page
 
 You can test the full page [here](https://z-bj.github.io/The-Keyboardio-Model100/).
+<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="36">
 
 ## Credits
 
 -   Silvestar Bistrović for the "Raise the Curtains" effect discovery.
 -   Keyboardio for creating such a unique and ergonomic keyboard.
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="36">
+
