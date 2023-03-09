@@ -14,7 +14,7 @@
 
 - JavaScript was intentionally avoided for this project.
 
-- The **"Raise the Curtains"** effect in CSS was implemented on the page to add a unique visual element, to create an **immersive user experience**
+- The **"Raise the Curtains"** effect in CSS was implemented on the page to add a unique visual element,<br>to create an **immersive user experience**
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif" width="36">
 
